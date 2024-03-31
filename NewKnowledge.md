@@ -26,10 +26,22 @@
 ### JavaScript Functions and Events:
 #### A Javascript function a block of Javascript code, that can be executed when "called" for. (block: Khối, executed: thực thi)
 #### For example, a function can be called when an event occurs, like when the user clicks a button. (occurs: xảy ra) 
-### JavaScipt in head or body
-#### You can place any number od scripts in an HTML document.
-#### Script can be placed in the body, or in thr head section of an HTML page, or in both. (section: phần)
-### Javascript in head
+#### JavaScipt in head or body
+##### You can place any number od scripts in an HTML document.
+##### Script can be placed in the body, or in thr head section of an HTML page, or in both. (section: phần)
+##### Javascript in head
 ![alt text](Image/image-7.png)
-### JacaScript in body
+##### JacaScript in body
 ![alt text](Image/image-8.png)
+###### Note: Placing script at the bottom of the body element improves the display speed, because script interpretation slows down the display. (interpretation: diễn dịch)
+### External JavaScript
+#### Script can also be placed in external files
+#### External scripts are practical when the same code is used in many different web pages.
+#### JavaScript file have the file extension .js (extension: sự mở rộng)
+#### To use an external script, put the name of the script filr in the src (source) attribute of a script tag: 
+#### You can place an external script reference in head or body as you like. (reference: Sự liên quan)
+#### The script will behave as if it was located exactly where the script tag is located. (behave as if it: Hoạt động như thể)
+#### Note: External script cannot contain script tag. (contain: bao gồm)
+![alt text](Image/image-9.png)
+![alt text](Image/image-10.png)
+
