@@ -7,11 +7,11 @@
 ## JSIntroduction
 ### JavaScript can change HTML Content -> getElementById() : Find by Id and replace with new
 ![alt text](image.png)
-#### Note: 
-##### h2 : Level 2 Heading
-##### p : paragraph
-##### button
-##### JavaScript accepts both double and single quotes (quotes: dấu ngoặc kép)
+####    Note: 
+#####       h2 : Level 2 Heading
+#####       p : paragraph
+#####       button
+#####       JavaScript accepts both double and single quotes (quotes: dấu ngoặc kép)
 ### JavaScript can change HTML attribute values (attribute: Thuộc tính)
 ![alt text](image-1.png)
 
