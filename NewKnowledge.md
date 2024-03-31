@@ -31,3 +31,5 @@
 #### Script can be placed in the body, or in thr head section of an HTML page, or in both. (section: phần)
 ### Javascript in head
 ![alt text](Image/image-7.png)
+### JacaScript in body
+![alt text](Image/image-8.png)
