@@ -42,6 +42,8 @@
 #### You can place an external script reference in head or body as you like. (reference: Sự liên quan)
 #### The script will behave as if it was located exactly where the script tag is located. (behave as if it: Hoạt động như thể)
 #### Note: External script cannot contain script tag. (contain: bao gồm)
+#### HTML
 ![alt text](Image/image-9.png)
+#### .js
 ![alt text](Image/image-10.png)
 
