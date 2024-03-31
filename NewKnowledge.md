@@ -14,4 +14,5 @@
 #####       JavaScript accepts both double and single quotes (quotes: dấu ngoặc kép)
 ### JavaScript can change HTML attribute values (attribute: Thuộc tính)
 ![alt text](image-1.png)
-
+### JavaScript can change HTML style (CSS)
+![alt text](image-3.png)
