@@ -46,4 +46,15 @@
 ![alt text](Image/image-9.png)
 #### .js
 ![alt text](Image/image-10.png)
-
+### External JavaScript Advantages
+#### Placing scripts in external files has some advantages: (advantages)
+##### It separates HTML and code (separate: tách ra)
+##### It makes HTML and Javascript easier to read and maintain (maintain: Duy trì)
+##### Cached JavaScript files can speed up page loads
+### External References:
+#### An external script can be referenced in different ways:
+##### With a full URL (a full web address)
+##### With a file path (like/js/)
+##### Without any path
+#### Example:
+![alt text](Image/image-11.png)
