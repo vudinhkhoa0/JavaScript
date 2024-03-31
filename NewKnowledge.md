@@ -16,3 +16,5 @@
 ![alt text](Image/image-1.png)
 ### JavaScript can change HTML style (CSS)
 ![alt text](Image/image-3.png)
+### JavaScript can Hide HTML elements:
+![alt text](Image/image-4.png)
