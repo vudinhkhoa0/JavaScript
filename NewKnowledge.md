@@ -70,3 +70,9 @@
 ##### innerHTML: defines the HTML content
 ##### Changing the innerHTML property of a HTML element is a common way to display data in HTML.
 ![alt text](Image/image-12.png)
+### Using document.write()
+#### For testing purposes, it is convenient to use document.write(): (convenient: thuận lợi)
+![alt text](Image/image-13.png)
+#### Using document.write() after an HTML document is loaded, will delete all existing HTML: (existing: hiện có)
+![alt text](Image/image-14.png)
+#### The document.write() method should only be used for testing
