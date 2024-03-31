@@ -58,3 +58,15 @@
 ##### Without any path
 #### Example:
 ![alt text](Image/image-11.png)
+## JS Output
+### JavaScript Display Possibilities (Possibilitie: Khả năng)
+#### Writing into an HTML element, using innerHTML
+#### Writing into the HTML output using document.write()
+#### Writing into an alert box, using window.alert() (alert: cảnh báo)
+#### Writing into the browser console, using console.log() (browser: trình duyệt)
+### Using innerHTML 
+#### document.getElementById(index):
+##### index: attribute
+##### innerHTML: defines the HTML content
+##### Changing the innerHTML property of a HTML element is a common way to display data in HTML.
+![alt text](Image/image-12.png)
