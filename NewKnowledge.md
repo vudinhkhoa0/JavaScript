@@ -12,3 +12,6 @@
 ##### p : paragraph
 ##### button
 ##### JavaScript accepts both double and single quotes (quotes: dấu ngoặc kép)
+### JavaScript can change HTML attribute values (attribute: Thuộc tính)
+![alt text](image-1.png)
+
