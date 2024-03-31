@@ -5,5 +5,10 @@
 ### JavaScript is easy to learn
 ### This tutorial will teach you JavaScript from basic to advanced (Tutorial : Hướng dẫn)
 ## JSIntroduction
-### JavaScript can change HTML Content -> getElementById()
+### JavaScript can change HTML Content -> getElementById() : Find by Id and replace with new
 ![alt text](image.png)
+#### Note: 
+##### <h2> </h2> : Level 2 Heading
+##### <p> </p> : paragraph
+##### <button> </button> 
+##### JavaScript accepts both double and single quotes (quotes: dấu ngoặc kép)
